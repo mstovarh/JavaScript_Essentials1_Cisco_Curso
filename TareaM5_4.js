@@ -1,0 +1,1 @@
+﻿let action = (callback, a, b) => callback(a, b);
